@@ -6,9 +6,9 @@ interactively deal with the ATM user and provide different banking services.
 # Code Structure:
 You are required to construct a class named ATM; this class has the following members:
 Variables: (Note: for string variable use only C-style strings)
-Account name: holds the name of this account owner, which is of maximum 100 letters.
-Card number: the card number of this account, which consists of 10 numbers
-Amount: the amount of money in the account
+Account name: holds the name of this account owner, which is of maximum 100 letters.  
+Card number: the card number of this account, which consists of 10 numbers.   
+Amount: the amount of money in the account.     
 Functions:
 create_new_acc(): this member function is used to create a new account, entering the
 name and the card number.   
