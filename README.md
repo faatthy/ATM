@@ -11,14 +11,14 @@ Card number: the card number of this account, which consists of 10 numbers
 Amount: the amount of money in the account
 Functions:
 create_new_acc(): this member function is used to create a new account, entering the
-name and the card number
+name and the card number.   
 Deposit(): this function adds the deposited amount to the money in the account + 1% of the
-deposited amount added
+deposited amount added.    
 Withdrawal(): this function withdraw money from the money in the account + 3% deduced
-from the account
+from the account.    
 Transfer(): this function transfers money from a sending account to a receiving account,
-deducing 1.5% from both accounts
-Print_acc_data(): prints the account name, card number, and amount of money
+deducing 1.5% from both accounts.     
+Print_acc_data(): prints the account name, card number, and amount of money.    
 # Constants and Equations:
 - The maximum number of accounts is 100 accounts
 - When depositing, an extra 1% of the depositing amount is added to the account
